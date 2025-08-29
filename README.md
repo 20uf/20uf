@@ -1,6 +1,4 @@
-### Hello 👋
-
-Je suis un artisan logiciel passionné. 
+Artisan logiciel passionné. 
 
 J'aime tout ce qui touche au Testing, au Refactoring et au Domain Driven Design / Behaviour Driven Development, ainsi que travailler en équipe, challenger le produit sur des problématiques métiers et réfléchir des aspects stratégiques & tactiques.
 
